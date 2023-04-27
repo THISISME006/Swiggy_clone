@@ -3,8 +3,7 @@
 Welcome to our Swiggy Clone repository! This project aims to recreate the user interface of the popular food ordering and delivery platform, Swiggy. With this clone, users can easily browse through menus, add items to their cart, and place orders for their favorite restaurants.
 
 
-This repository contains the front-end code for the Swiggy Clone. The user interface is built using HTML, CSS, and JavaScript. We have also used Bootstrap for some of the styling and layout.
-
+This repository contains the front-end code for the Swiggy Clone. The user interface is built using HTML and CSS. 
 
 To get started with the Swiggy Clone, you can simply clone this repository and open the index.html file in your web browser. The homepage will display a list of popular restaurants in your area, and you can click on each restaurant to view their menu.
 
